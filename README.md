@@ -13,3 +13,11 @@
 ### 💻 Мои скиллы:
 
 [![My Skills](https://skillicons.dev/icons?i=git,py,pytorch,sklearn,sqlite,tensorflow"&theme=light)](https://skillicons.dev)
+
+### 💻 Мои проекты:
+
+| Название проекта | Ссылка |
+|------------------|--------|
+| Customer_churn         | [Ссылка на проект 1](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Customer_churn) |
+| Проект 2         | [Ссылка на проект 2](ссылка2) |
+| Проект 3         | [Ссылка на проект 3](ссылка3) |
