@@ -18,7 +18,7 @@
 
 | Проект | Краткое описание |
 |------------------|--------|
-| [Customer_churn](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Customer_churn) |
+| [Customer_churn](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Customer_churn) | Прогноз ухода клиента из банка по историческим данным о поведении клиентов |
 | [Oil_Prospect_Optimize](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Oil_Prospect_Optimize) |
 | [Research_of_adverts_for_the_sale_of_apartments](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Research_of_adverts_for_the_sale_of_apartments) |
 | [Research_on_the_reliability_of_borrowers](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Research_on_the_reliability_of_borrowers) |
