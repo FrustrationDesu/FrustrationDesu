@@ -16,7 +16,7 @@
 
 ### 💻 Мои проекты:
 
-| Название проекта | Краткое описание |
+| Проект | Краткое описание |
 |------------------|--------|
 | [Customer_churn](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Customer_churn) |
 | [Oil_Prospect_Optimize](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Oil_Prospect_Optimize) |
