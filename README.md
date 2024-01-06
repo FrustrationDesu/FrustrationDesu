@@ -29,8 +29,8 @@
 | [Price_car_predict](https://github.com/FrustrationDesu/yandex.practicum/tree/main/price_car_predict) |Разработка модели для предсказывания стоимости автомобиля |
 | [Protection_of_personal_data](https://github.com/FrustrationDesu/yandex.practicum/tree/main/protection_of_personal_data) |Разработка метода преобразования данных персональной информации без ухудшения качества моделей машинного обучения |
 | [Risk_of_fault](https://github.com/FrustrationDesu/yandex.practicum/tree/main/risk_of_fault) |Разработка системы определения виновника в ДТП |
-| [Star_temperature_predict](https://github.com/FrustrationDesu/yandex.practicum/tree/main/star_temperature_predict) |
-| [CineInsight](https://github.com/FrustrationDesu/yandex.practicum/tree/main/%D1%81ineInsight) |Предсказание температуры звезд |
+| [Star_temperature_predict](https://github.com/FrustrationDesu/yandex.practicum/tree/main/star_temperature_predict) |Предсказание температуры звезд |
+| [CineInsight](https://github.com/FrustrationDesu/yandex.practicum/tree/main/%D1%81ineInsight) |Изучение рынка российского кинопроката|
 
 
 ### 💻 Контакты:
