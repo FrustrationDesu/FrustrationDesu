@@ -18,6 +18,21 @@
 
 | Название проекта | Ссылка |
 |------------------|--------|
-| Customer_churn         | [Ссылка на проект 1](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Customer_churn) |
-| Проект 2         | [Ссылка на проект 2](ссылка2) |
-| Проект 3         | [Ссылка на проект 3](ссылка3) |
+| Customer_churn         | [Ссылка](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Customer_churn) |
+| Oil_Prospect_Optimize         | [Ссылка](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Oil_Prospect_Optimize) |
+| Research_of_adverts_for_the_sale_of_apartments         | [Ссылка](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Research_of_adverts_for_the_sale_of_apartments) |
+| Research_on_the_reliability_of_borrowers         | [Ссылка](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Research_on_the_reliability_of_borrowers) |
+| TariffClassifier         | [Ссылка](https://github.com/FrustrationDesu/yandex.practicum/tree/main/TariffClassifier) |
+| TariffInsight         | [Ссылка](https://github.com/FrustrationDesu/yandex.practicum/tree/main/TariffInsight) |
+| Hotel_booking_system         | [Ссылка](https://github.com/FrustrationDesu/yandex.practicum/tree/main/hotel_booking_system) |
+| Predict_num_orders_taxi         | [Ссылка](https://github.com/FrustrationDesu/yandex.practicum/tree/main/predict_num_orders_taxi) |
+| Price_car_predict         | [Ссылка](https://github.com/FrustrationDesu/yandex.practicum/tree/main/price_car_predict) |
+| Protection_of_personal_data         | [Ссылка на проект 1](https://github.com/FrustrationDesu/yandex.practicum/tree/main/protection_of_personal_data) |
+| Risk_of_fault         | [Ссылка на проект 2](https://github.com/FrustrationDesu/yandex.practicum/tree/main/risk_of_fault) |
+| Star_temperature_predict         | [Ссылка на проект 3](https://github.com/FrustrationDesu/yandex.practicum/tree/main/star_temperature_predict) |
+| CineInsight         | [Ссылка на проект 1](https://github.com/FrustrationDesu/yandex.practicum/tree/main/%D1%81ineInsight) |
+
+
+### 💻 Контакты:
+Вы можете написать мне, если возникли какие-то вопросы или есть предложения:
+[![Telegram](https://example.com/telegram_logo.png)](https://t.me/frustrationdesu)
