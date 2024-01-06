@@ -27,10 +27,10 @@
 | Hotel_booking_system         | [Ссылка](https://github.com/FrustrationDesu/yandex.practicum/tree/main/hotel_booking_system) |
 | Predict_num_orders_taxi         | [Ссылка](https://github.com/FrustrationDesu/yandex.practicum/tree/main/predict_num_orders_taxi) |
 | Price_car_predict         | [Ссылка](https://github.com/FrustrationDesu/yandex.practicum/tree/main/price_car_predict) |
-| Protection_of_personal_data         | [Ссылка на проект 1](https://github.com/FrustrationDesu/yandex.practicum/tree/main/protection_of_personal_data) |
-| Risk_of_fault         | [Ссылка на проект 2](https://github.com/FrustrationDesu/yandex.practicum/tree/main/risk_of_fault) |
-| Star_temperature_predict         | [Ссылка на проект 3](https://github.com/FrustrationDesu/yandex.practicum/tree/main/star_temperature_predict) |
-| CineInsight         | [Ссылка на проект 1](https://github.com/FrustrationDesu/yandex.practicum/tree/main/%D1%81ineInsight) |
+| Protection_of_personal_data         | [Ссылка](https://github.com/FrustrationDesu/yandex.practicum/tree/main/protection_of_personal_data) |
+| Risk_of_fault         | [Ссылка](https://github.com/FrustrationDesu/yandex.practicum/tree/main/risk_of_fault) |
+| Star_temperature_predict         | [Ссылка](https://github.com/FrustrationDesu/yandex.practicum/tree/main/star_temperature_predict) |
+| CineInsight         | [Ссылка](https://github.com/FrustrationDesu/yandex.practicum/tree/main/%D1%81ineInsight) |
 
 
 ### 💻 Контакты:
