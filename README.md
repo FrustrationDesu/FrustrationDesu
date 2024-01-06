@@ -11,8 +11,4 @@
 | ----------------------------------------------------------------| :---------------: |
 | practicum.yandex/Факультет: Data Science+                       | 09/2022 - xx/2024 |
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,pytorch	,sklearn,sqlite, tensorflow, " />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=git,py,pytorch,sklearn,sqlite,tensorflow"&theme=light)](https://skillicons.dev)
