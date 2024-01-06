@@ -35,4 +35,4 @@
 
 ### 💻 Контакты:
 Вы можете написать мне, если возникли какие-то вопросы или есть предложения:<br>
-[![Telegram](https://stihi.ru/pics/2022/08/06/5126.jpg)](https://t.me/frustrationdesu)
+[![Telegram](https://anwap.space/wp-content/uploads/2023/12/telegram.png)](https://t.me/frustrationdesu)
