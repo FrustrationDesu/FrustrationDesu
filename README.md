@@ -16,9 +16,10 @@
 
 ### 💻 Мои проекты:
 
-| Проект | Краткое описание |
-|------------------|--------|
-| [Customer_churn](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Customer_churn) | Прогноз ухода клиента из банка по историческим данным о поведении клиентов |
+| Проект | Краткое описание |Использованные библиотеки|
+|------------------|--------|------------|
+| [Customer_churn](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Customer_churn) | Прогноз ухода клиента из банка по историческим данным о поведении клиентов |[![ML Libraries](https://badgen.net/badge/ML%20Libraries/scikit-learn%2C%20pandas%2C%20numpy/green)](https://badgen.net/badge/ML%20Libraries/scikit-learn%2C%20pandas%2C%20numpy/green)
+|
 | [Oil_Prospect_Optimize](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Oil_Prospect_Optimize) |Анализ с целью определения лучшей локации, подходящей для бурения скважины для добычи нефти|
 | [Research_of_adverts_for_the_sale_of_apartments](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Research_of_adverts_for_the_sale_of_apartments) |Исследование объявлений о продаже квартир |
 | [Research_on_the_reliability_of_borrowers](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Research_on_the_reliability_of_borrowers) |Исследование надежности заемщиков |
