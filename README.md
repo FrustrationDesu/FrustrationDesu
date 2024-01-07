@@ -18,8 +18,7 @@
 
 | Проект | Краткое описание |Использованные библиотеки|
 |------------------|--------|------------|
-| [Customer_churn](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Customer_churn) | Прогноз ухода клиента из банка по историческим данным о поведении клиентов |
-[![Scikit-learn](https://badgen.net/badge/scikit-learn/blue?icon=github)](https://badgen.net/badge/scikit-learn/blue?icon=github)
+| [Customer_churn](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Customer_churn) | Прогноз ухода клиента из банка по историческим данным о поведении клиентов |[![Scikit-learn](https://badgen.net/badge/scikit-learn/blue?icon=github)](https://badgen.net/badge/scikit-learn/blue?icon=github)
 [![Pandas](https://badgen.net/badge/pandas/green)](https://badgen.net/badge/pandas/green)
 [![NumPy](https://badgen.net/badge/NumPy/yellow)](https://badgen.net/badge/NumPy/yellow)|
 | [Oil_Prospect_Optimize](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Oil_Prospect_Optimize) |Анализ с целью определения лучшей локации, подходящей для бурения скважины для добычи нефти|
