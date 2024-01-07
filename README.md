@@ -18,7 +18,10 @@
 
 | Проект | Краткое описание |Использованные библиотеки|
 |------------------|--------|------------|
-| [Customer_churn](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Customer_churn) | Прогноз ухода клиента из банка по историческим данным о поведении клиентов |[![ML Libraries](https://badgen.net/badge/ML%20Libraries/scikit-learn%2C%20pandas%2C%20numpy/green)](https://badgen.net/badge/ML%20Libraries/scikit-learn%2C%20pandas%2C%20numpy/green)
+| [Customer_churn](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Customer_churn) | Прогноз ухода клиента из банка по историческим данным о поведении клиентов |[![Scikit-learn](https://badgen.net/badge/scikit-learn/blue)](https://badgen.net/badge/scikit-learn/blue)[![Pandas](https://badgen.net/badge/pandas/green)](https://badgen.net/badge/pandas/green)
+[![NumPy](https://badgen.net/badge/NumPy/yellow)](https://badgen.net/badge/NumPy/yellow)
+
+
 |
 | [Oil_Prospect_Optimize](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Oil_Prospect_Optimize) |Анализ с целью определения лучшей локации, подходящей для бурения скважины для добычи нефти|
 | [Research_of_adverts_for_the_sale_of_apartments](https://github.com/FrustrationDesu/yandex.practicum/tree/main/Research_of_adverts_for_the_sale_of_apartments) |Исследование объявлений о продаже квартир |
