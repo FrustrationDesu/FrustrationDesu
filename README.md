@@ -31,6 +31,7 @@
 | [Risk_of_fault](https://github.com/FrustrationDesu/yandex.practicum/tree/main/risk_of_fault) |Разработка системы определения виновника в ДТП |
 | [Star_temperature_predict](https://github.com/FrustrationDesu/yandex.practicum/tree/main/star_temperature_predict) |Предсказание температуры звезд |
 | [CineInsight](https://github.com/FrustrationDesu/yandex.practicum/tree/main/%D1%81ineInsight) |Изучение рынка российского кинопроката|
+|[Classifier_toxic_tweets](https://github.com/FrustrationDesu/yandex.practicum/tree/main/classifier_toxic_tweets)|Классификация твитов на предмет токсичности|
 
 
 ### 💻 Контакты:
