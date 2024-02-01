@@ -12,7 +12,10 @@
 | practicum.yandex/Факультет: Data Science+                       | 09/2022 - xx/2024 |
 ### 💻 Мои скиллы:
 
-[![My Skills](https://skillicons.dev/icons?i=git,py,pytorch,sklearn,sqlite,tensorflow"&theme=light)](https://skillicons.dev)
+Языки программирования: Python.
+Фреймворки и библиотеки: Pytorch, Tensorflow, Pyspark, sqlAlchemy, numpy, pandas, seaborn, sklearn, xgboost, catboost, Matplotlib.
+СУБД: PostgreSQL.
+Вспомогательные инструменты: Jupiter, Git, Docker
 
 ### 💻 Мои проекты:
 
