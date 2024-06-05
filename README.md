@@ -10,12 +10,14 @@
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
 | practicum.yandex/Факультет: Data Science+                       | 09/2022 - 03/2024 |
+| A/b тестирование/ Глеб Михайлов| 05/2024 - 05/2024 |
+| Инди курс программирования на Python |06/2024 - xx/xxxx|
 ### Мои скиллы:
 
 Языки программирования: Python.<br>
 Фреймворки и библиотеки: Pytorch, Tensorflow, Pyspark, sqlAlchemy, numpy, pandas, seaborn, sklearn, xgboost, catboost, Matplotlib.<br>
 СУБД: PostgreSQL.<br>
-Вспомогательные инструменты: Jupiter, Git, Docker<br>
+Вспомогательные инструменты и скиллы: Jupiter, Git, Docker, A/B тестирование.<br>
 
 ### Мои проекты:
 
